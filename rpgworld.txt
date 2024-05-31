@@ -1,0 +1,20 @@
+warrior - mejores puntos de golpe, la mejor armadura
+wizard - uses magic
+cleric - uses support magic
+rogue - highest consisten meele/ranged damage
+-class levels
+
+//
+battle system
+
+
+//
+shop system
+Equipamiento
+
+//
+
+Combate por turnos
+niveles por mundos
+	diferentes enemigos
+//
